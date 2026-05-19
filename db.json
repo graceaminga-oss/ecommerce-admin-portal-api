@@ -1,0 +1,31 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Coffee Beans Premium Roast",
+      "description": "Rich dark roast coffee beans with bold flavor",
+      "price": 15,
+      "category": "beans",
+      "stock": 45,
+      "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93"
+    },
+    {
+      "id": 2,
+      "name": "Vanilla Latte",
+      "description": "Smooth espresso latte with vanilla syrup",
+      "price": 10,
+      "category": "drinks",
+      "stock": 30,
+      "image": "https://images.unsplash.com/photo-1517701550927-30cf4ba1fcef"
+    },
+    {
+      "id": 3,
+      "name": "Classic Cappuccino",
+      "description": "Italian cappuccino with creamy foam",
+      "price": 12,
+      "category": "drinks",
+      "stock": 22,
+      "image": "https://images.unsplash.com/photo-1534778101976-62847782c213"
+    }
+  ]
+}
